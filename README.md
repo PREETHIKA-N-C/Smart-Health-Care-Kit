@@ -1,0 +1,2 @@
+# Smart-Health-Care-Kit
+Smart Health care kit records the patient heart beat rate and body temperature and furthermore sends an email/SMS alert whenever those readings goes beyond critical values. Pulse rate and body temperature readings are recorded over ThingSpeak and Google sheets with the goal that patient health can be observed from any place on the world over the web. A buzzer is also be attached so that patient can press it in an emergency to send email/sms to their relatives.
